@@ -1,0 +1,77 @@
+header {
+	position: relative;
+	width: 1920px;
+	height: 90px;
+	left: 0px;
+	top: 0px;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 15px rgba(49, 83, 119, 0.15);
+}
+
+header a, li {
+	text-decoration-line: none;
+	display: flex;
+	float: left;
+}
+
+.logo-header {
+
+	/* Logo-01 1 */
+	position: absolute;
+	width: 81px;
+	height: 63px;
+	left: 204px;
+	top: 14px;
+}
+
+.menu-header {
+	position: absolute;
+	width: 782px;
+	height: 37px;
+	margin-left: 557px;
+	margin-top: 26px;
+}
+
+.menu-header a {
+
+	/* Roboto/18 Bold */
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 21px;	/* identical to box height */
+	letter-spacing: 0.005em;	/* Bdazzled Blue / Color 6 */
+	color: #030609;	/* Inside auto layout */
+	flex: none;
+	order: 0;
+	flex-grow: 0;
+	margin: 0px 18.5px;
+	padding-top: 10px;
+}
+
+.menu-header img {
+
+	/* Logo-01 1 */
+	position: absolute;
+	width: 81px;
+	height: 63px;
+	left: 204px;
+	top: 14px;
+}
+
+.gtranslate {
+	position: absolute;
+	width: 128px;
+	height: 40px;
+	left: 1537px;
+	top: 25px;
+}
+
+.search-box {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 1735px;
+	top: 25px;
+}

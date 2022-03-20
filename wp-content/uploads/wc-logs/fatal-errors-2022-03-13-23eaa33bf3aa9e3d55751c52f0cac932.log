@@ -1,0 +1,118 @@
+2022-03-13T17:04:15+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 7
+
+2022-03-13T17:04:21+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 7
+
+2022-03-13T17:04:31+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 7
+
+2022-03-13T17:34:44+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:44+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:44+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:45+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:45+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:45+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:45+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:45+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:45+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:55+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:56+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:34:58+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 9
+
+2022-03-13T17:35:12+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 11
+
+2022-03-13T17:35:14+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 11
+
+2022-03-13T17:35:27+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 11
+
+2022-03-13T17:35:28+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 11
+
+2022-03-13T17:35:33+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 11
+
+2022-03-13T17:35:34+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 11
+
+2022-03-13T17:35:44+00:00 CRITICAL syntax error, unexpected 'wp_admin_bar_header' (T_STRING) in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\header.php on line 9
+
+2022-03-13T17:36:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function show_admin_bar(), 0 passed in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 12 and exactly 1 expected in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php:1221
+Stack trace:
+#0 C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php(12): show_admin_bar()
+#1 C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project-ASIAvinaFans\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project-ASIAvinaFans\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php on line 1221
+
+2022-03-13T17:36:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function show_admin_bar(), 0 passed in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 12 and exactly 1 expected in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php:1221
+Stack trace:
+#0 C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php(12): show_admin_bar()
+#1 C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project-ASIAvinaFans\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project-ASIAvinaFans\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php on line 1221
+
+2022-03-13T17:36:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function show_admin_bar(), 0 passed in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 12 and exactly 1 expected in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php:1221
+Stack trace:
+#0 C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php(12): show_admin_bar()
+#1 C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project-ASIAvinaFans\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project-ASIAvinaFans\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php on line 1221
+
+2022-03-13T17:36:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function show_admin_bar(), 0 passed in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 12 and exactly 1 expected in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php:1221
+Stack trace:
+#0 C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php(12): show_admin_bar()
+#1 C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project-ASIAvinaFans\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project-ASIAvinaFans\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php on line 1221
+
+2022-03-13T17:36:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function show_admin_bar(), 0 passed in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 12 and exactly 1 expected in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php:1221
+Stack trace:
+#0 C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php(12): show_admin_bar()
+#1 C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project-ASIAvinaFans\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project-ASIAvinaFans\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php on line 1221
+
+2022-03-13T17:36:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function show_admin_bar(), 0 passed in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php on line 12 and exactly 1 expected in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php:1221
+Stack trace:
+#0 C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\index.php(12): show_admin_bar()
+#1 C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\project-ASIAvinaFans\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\project-ASIAvinaFans\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\project-ASIAvinaFans\wp-includes\admin-bar.php on line 1221
+
+2022-03-13T20:34:42+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\template-part\quality-verification.php on line 10
+
+2022-03-13T20:34:42+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\template-part\quality-verification.php on line 10
+
+2022-03-13T20:34:49+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\template-part\quality-verification.php on line 10
+
+2022-03-13T20:34:49+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\template-part\quality-verification.php on line 10
+
+2022-03-13T20:35:00+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\template-part\quality-verification.php on line 10
+
+2022-03-13T20:35:01+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\template-part\quality-verification.php on line 10
+
+2022-03-13T20:35:09+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\template-part\quality-verification.php on line 10
+
+2022-03-13T20:35:09+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\template-part\quality-verification.php on line 10
+
+2022-03-13T20:35:11+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\template-part\quality-verification.php on line 10
+
+2022-03-13T20:35:11+00:00 CRITICAL syntax error, unexpected ',' in C:\xampp\htdocs\project-ASIAvinaFans\wp-content\themes\ASIAvinaFans\template-part\quality-verification.php on line 10
+

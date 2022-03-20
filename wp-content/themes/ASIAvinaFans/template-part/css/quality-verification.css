@@ -1,0 +1,33 @@
+.quality-verification {
+	position: relative;
+	width: 1920px;
+	height: 661px;
+	background-color: #FFFFFF;
+}
+
+.warranty {
+	position: absolute;
+	width: 744px;
+	height: 229px;
+	top: 104px;
+	margin-left: 204px;
+	background: #EEF3F8;
+	border-radius: 16px;
+}
+.warranty img{
+	margin-top: 14px;
+	margin-left: 21px;
+}
+.quality{
+	position: absolute;
+	width: 744px;
+	height: 229px;
+	margin-top: 104px;
+	margin-left: 972px;
+	background: #EEF3F8;
+	border-radius: 16px;
+}
+.quality img{
+	margin-top: 27px;
+	margin-left: 33px;
+}

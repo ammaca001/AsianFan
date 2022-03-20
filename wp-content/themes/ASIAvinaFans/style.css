@@ -1,0 +1,22 @@
+/*
+Theme Name: ASIAvina Fans
+Text Domain: asiavinafans
+Version: 1.0
+Requires at least: 4.7
+Requires PHP: 5.2.4
+Description: Website bán quạt chuyên nghiệp
+Author: akira2k
+Author URI: https://www.facebook.com/huynh.sang.7374/
+Theme URI: http://localhost/project-ASIAvinaFans 
+*/
+
+
+
+.slider {
+	/* Slider */
+	position: relative;
+	width: 1920px;
+	height: 939px;
+	left: 0px;
+	margin-top: 0px;
+}
